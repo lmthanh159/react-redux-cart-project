@@ -1,0 +1,11 @@
+/* YOUR CUSTOM STYLES */
+.card img{
+    width: 400px;
+    height: 450px;
+}
+
+.qty{
+    display: block;
+    text-align: center;
+    width: 75%;
+}
